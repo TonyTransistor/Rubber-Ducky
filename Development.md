@@ -12,7 +12,7 @@ These software only run on windows machine.
 
 ## Arduino HID
 
-Transforming Arduino into `HID` (Human Interface detect).
+Transforming Arduino into `HID` (Human Interface Detect).
 
 **Vídeo Youtube**
 
@@ -36,7 +36,7 @@ Regsvr32.exe is an EXE file type associated with FineReader OCR, developed by Ab
 
 <a href="http://www.solvusoft.com/pt-br/files/erro-remo%C3%A7%C3%A3o-do-v%C3%ADrus/exe/windows/abbyy-usa-software-house-inc/finereader-ocr/regsvr32-exe/">Solvusoft</a>
 
-### Comandos Metasploit
+### Commands Metasploit
 
 The following is the <b>msfconsole</b>
 
